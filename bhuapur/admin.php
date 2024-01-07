@@ -375,7 +375,7 @@ echo "0 results";
     <div class="pull-right hidden-xs">
       <b>Version</b> 1.1.0
     </div>
-    <strong>Copyright &copy; 2018 <a href="https://softcareit.com/">SoftCare IT</a>.</strong> All rights
+    <strong>Developed by <a href="https://mdmasum.org/">Md Masum Billah</a>.</strong> All rights
     reserved.
   </footer>
   <!-- Control Sidebar -->

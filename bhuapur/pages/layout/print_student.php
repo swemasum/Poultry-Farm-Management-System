@@ -11,7 +11,7 @@ header("Location:index.php");
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>AdminLTE 2 | Fixed Layout</title>
+  <title>Admin panel</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.7 -->
@@ -412,7 +412,7 @@ $reg=$registration;
     <div class="pull-right hidden-xs">
       <b>Version</b> 1.1.0
     </div>
-    <strong>Copyright &copy; 2018 <a href="https://softcareit.com/">SoftCare IT</a>.</strong> All rights
+    <strong>Developed by <a href="https://mdmasum.org/">Md Masum Billah</a>.</strong> All rights
     reserved.
   </footer>
 
