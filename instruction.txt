@@ -1,0 +1,4 @@
+1.TWO different database for dhanbari and bhuapur.
+2.different connection string
+3. user can switch the branch
+4.user can only change password in dhanbari branch 
