@@ -1,8 +1,8 @@
-Project description: This project is created for a Poultry farm. They wanted to automate their supply chain operation through this project. Below I am telling about the project's operations and installation process.
+##Project description: This project is created for a Poultry farm. They wanted to automate their supply chain operation through this project. Below I am telling about the project's operations and installation process.
 
 That project will work for two different branches. One is Dhonbari and Another is the Bhuapur branch.
 
-Project functions:
+##Project functions:
 
 1. Login
 
@@ -72,7 +72,7 @@ Project functions:
 
  6. Change Password
 
-Installation Process
+#Installation Process
 
 1. Import the database called "egg_bhuapur.sql" in the bhuapur folder and change the connection string in the connection.php file in the same folder if needed.
 
